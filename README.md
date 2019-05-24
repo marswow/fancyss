@@ -1,4 +1,5 @@
-# fancyss - 科学上网
+注：这是为了防止不可抗的因素而做的备份，本项目不提供维护服务（不会…）
+#fancyss  - 科学上网
 
 Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt based router with software center. 
 
